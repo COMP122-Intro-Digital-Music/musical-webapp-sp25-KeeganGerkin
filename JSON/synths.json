@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "name": "Low-Bounce",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": -1200,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 1,
+        "partials": [
+          0.6366197723675814
+        ],
+        "phase": 0,
+        "type": "sawtooth1"
+      }
+    }
+  },
+  {
+    "name": "High-Bounce",
+    "type": "Synth",
+    "settings": {
+      "volume": -5,
+      "detune": 1200,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 1,
+        "partials": [
+          0.8105694691387023
+        ],
+        "phase": 0,
+        "type": "triangle1"
+      }
+    }
+  }
+]
