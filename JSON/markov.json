@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "FusterCluck",
+    "pitchSet": {
+      "state": "Gb4",
+      "matrix": {
+        "G4": [
+          "G4"
+        ],
+        "Gb4": [
+          "Gb4"
+        ],
+        "C4": [
+          "C4"
+        ],
+        "C5": [
+          "C4"
+        ]
+      }
+    },
+    "rhythmSet": {
+      "state": "4n",
+      "matrix": {
+        "4n": [
+          "4n"
+        ]
+      }
+    }
+  }
+]
